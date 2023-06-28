@@ -14,5 +14,5 @@ to-do | 06.25.2023
 - Find the first few collabs
 - Explain the studio
 - Explain the gallery
-Github pages with astro for blog, barebones. small, performant, only whats needed plus a little play
+- Github pages with astro for blog, barebones. small, performant, only whats needed plus a little play
 complete a 78 piece protoype that informs volume zeros' study. 12 month volumes (maybe less, not sure yet), many issues/collections/releases
