@@ -1,10 +1,25 @@
 # volume-000
 file structure, notes, and whatever else I add for experiment 000
 
+## domains and focus
+**07.06.2023**
+Bought dotswf.ens and a handful of other domain extensions for dotswf. I like the nod to the software that first helped me see the browser as a medium.
+
+Published artist lists will focus on what I see as exciting and emerging. Most projects I see focus on their collections. I'm operating minus investment, so what I buy isn't the sole signal of what I find fascinating.
+
+Cutting the blogroll for now. The more I think about it, the more I don't like the idea of a blogroll.
+
+A personal note. Navigating making things loneliness the last few days. Feeling like a joke. Don't have a robust professional network, so moments of doubt swing low, and moments of extreme confidence swing high
+
+
+## rate limiting
+**07.01.2023**
+
+thinking about refuses, rate limiting, and delicious. 
 
 
 ## a return to blogs as home and social outposts
-**06.29.203**
+**06.29.2023**
 
 The primary focus for this project will always be artist discovery. I'm analyzing and cleaning data from my collecting wallets. Focused on the artists and the social graph signals that exist in that data, using it to help me discover other indie, not yet celebrated artists. The selfish focus will be on what I like regardless of style, chain, popularity, or critical acclaim.
 
