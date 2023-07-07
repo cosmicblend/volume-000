@@ -1,8 +1,21 @@
 # volume-000
 file structure, notes, and whatever else I add for experiment 000
 
+## first release artists and data things
+**07.06.2023**
+
+first release artists are all loaded and cross-referenced to collections in storyblok.
+
+expanding on the artist's discovery. i've been querying transaction data to try and find commonality signals across artist wallets. i then use that data to help surface new artists that might interest me. this results in a list of new artists that i then spend time researching. 
+
+its a promising experiment so far. it has given me a few long-term ideas. 
+
+deciding what an artist's signal is and finding crossover connections has been tedious, but the collection process and hunches are improving. some parts of data collection and cleaning will be automated in time. for now, a more manual process makes sense.
+
+
 ## domains and focus
 **07.06.2023**
+
 Bought dotswf.ens and a handful of other domain extensions for dotswf. I like the nod to the software that first helped me see the browser as a medium.
 
 Published artist lists will focus on what I see as exciting and emerging. Most projects I see focus on their collections. I'm operating minus investment, so what I buy isn't the sole signal of what I find fascinating.
