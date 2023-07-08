@@ -5,7 +5,7 @@ file structure, notes, and whatever else I add for experiment 000
 ## art interest graph
 **07.06.2023**
 
-[How to Blow Up a Timeline] (https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline) by eugene wei really stood out yesterday. art graph is stuck in my mind now. 
+[How to Blow Up a Timeline](https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline) by eugene wei really stood out yesterday. art graph is stuck in my mind now. 
 
 prepping the first ten blog posts and selecting the first set of featured artists this weekend between Mathcastles class work. I highly recommend the mathcastles sessions, perfect mental floss, and the class work is also challenging. 
 
