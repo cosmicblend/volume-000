@@ -1,6 +1,21 @@
 # volume-000
 file structure, notes, and whatever else I add for experiment 000
 
+
+## art interest graph
+**07.06.2023**
+
+[How to Blow Up a Timeline] (https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline) by eugene wei really stood out yesterday. art graph is stuck in my mind now. 
+
+prepping the first ten blog posts and selecting the first set of featured artists this weekend between Mathcastles class work. I highly recommend the mathcastles sessions, perfect mental floss, and the class work is also challenging. 
+
+i don't think i'll select the artists each week in the future. instead i'll randomize the selection from the researched artist pool. going to have to put some constraints around pieces displayed per artist. I don't want it to be one from each, and i don't want it to be all from, say, two people. 
+
+Still trying to decide on the feature display timeframe too. three days per feature might be better. 
+
+i don't want to spotlight what i've collected, but i also think it might be wise to give a small "collected" signal on featured artists. my concern is that i don't want people to assume it's just a showcase of what i or a small group has bought. the larger idea isn't an art fund. my goal here is to keep the artists and their work the primary focus, it is not about what i have or haven't collected in my mind.
+
+
 ## first release artists and data things
 **07.06.2023**
 
