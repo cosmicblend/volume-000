@@ -1,6 +1,11 @@
 # volume-000
 file structure, notes, and whatever else I add for experiment 000
 
+## art interest graph. extended
+**07.06.2023**
+
+left out that the majority of blog posts will have more of a del.icio.us bookmarking feel. i'm not a writing i'm more of an infovore
+
 
 ## art interest graph
 **07.06.2023**
