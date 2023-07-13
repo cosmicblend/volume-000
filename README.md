@@ -1,6 +1,13 @@
 # volume-000
 file structure, notes, and whatever else I add for experiment 000
 
+
+## quick note
+**07.12.2023**
+
+made the decision that i'll only spotlight artists whose work i don't own at first. 
+
+
 ## art interest graph. extended
 **07.06.2023**
 
