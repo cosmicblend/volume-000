@@ -2,6 +2,16 @@
 file structure, notes, and whatever else I add for experiment 000
 
 
+## its been a couple weeks
+**07.25.2023**
+
+broke my posting habit a little. been busy collecting first draft content for all 156 artists in volume 0. The event calendar, by default, will only cover artists listed in a volume. 
+
+over the last few weeks, I ran into work and at-home challenges that threw my rhythm off. first off, our 19-year-old cat died; sad moment. 
+
+second, I ran into a couple financial challenges. this will be the first month in seven that I won't hit my break-even revenue numbers. I expected that to happen soon, but I expected to avoid facing a delayed client payment. that's four months and counting now. I budgeted around 18 months of space to work on this while handling a smaller client contract. I may need to look at a more time-consuming gig to replace that client contract; juggling between gigs and family will get trickier if that happens. the financial hurdles also have me rethinking my outlook on early investment. i don't want to look at investment right now, but i might need to switch up my thinking on that
+
+
 ## quick note
 **07.12.2023**
 
