@@ -4,7 +4,7 @@ file structure, notes, and whatever else I add for experiment 000
 ## Found a co-founder
 **07.28.2023**
 
-Eventually, my analysis skills will be top out. A lead developer and I designed and set up the sentiment analysis tools that the Straight used, some of which were a custom header bidding system. Mapping cultural events "things to do" by walk score and vertically focused content suggestions algorithms.
+Eventually, my analysis skills will top out. A lead developer and I designed and set up the sentiment analysis tools that the Straight used, some of which were a custom header bidding system. Mapping cultural events "things to do" by walk score and vertically focused content suggestions algorithms.
 
 Many of those concepts and ideas explored long ago (on the creation of bidclix) apply to this idea. Still, more computer science and ML depth are needed than I have. 
 
