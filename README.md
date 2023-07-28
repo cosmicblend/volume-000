@@ -1,6 +1,17 @@
 # volume-000
 file structure, notes, and whatever else I add for experiment 000
 
+## Found a co-founder
+**07.28.2023**
+
+Eventually, my analysis skills will be top out. A lead developer and I designed and set up the sentiment analysis tools that the Straight used, some of which were a custom header bidding system. Mapping cultural events "things to do" by walk score and vertically focused content suggestions algorithms.
+
+Many of those concepts and ideas explored long ago (on the creation of bidclix) apply to this idea. Still, more computer science and ML depth are needed than I have. 
+
+My co-founder, Massoud is a PhD computer scientist who was the director of data science at GE, data science lead at Trulioo, and current CTO at a studio focused on creating open-source, decentralized social media clients and infrastructure services. 
+
+It's good to have someone else to bounce these data discoveries and reworks off of
+
 
 ## its been a couple weeks
 **07.25.2023**
