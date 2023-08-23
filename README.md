@@ -1,6 +1,32 @@
 # volume-000
 file structure, notes, and whatever else I add for experiment 000
 
+## It has beed a monthish
+
+I need to focus on updating regularly, trying to create a habit. Some point form updates:
+
+- Going to stop posting in the readme like this. It a been a weird but good experiment for me.
+- Will move all these posts over to a blog tag. 
+- These posts will also be posted to an ipfs node I'll maintain for this project. Other post types will end up there, also. Arweave at some point, also.
+- Weighing the pros and cons of pinning the wishlist artists' work on that ipfs node. 
+- The data structure at the moment includes:
+	- artist
+	- artist contracts
+	- pieces (classed as collections, editions, pieces)
+	- pieces contract (if applicable)
+	- released on gallery/market
+	- found on gallery/market
+	- chain (eth, tez, zora, sol, base)
+- Other discovery signals will be available. I'll detail those in the coming weeks
+- Events will be a coming soon thing, I think. I'm focused on creating structured data that informs an artist graph across chains and into communities.
+
+On the business side. Client payment issues now concern me enough to look at other gigs. I need to extend my bootstrap timeline. At the moment, my runway estimates have been messed up by almost six months because of late payments. I have additional revenue experiments in mind. I don't plan on releasing those for a while. They involve a recent rethink on how I look at what discovery experiences, curating, and the studio, in general, can be.
+
+Overall the process of querying the various chains and then marking up structured data for discovery is progressing nicely. I forgot how time-consuming defining and creating a process for structured data can be. Doing this work myself initially is ideal; It's defining the data processes, learning the time requirements, and, more importantly, understanding the data itself.
+
+Execution wise I'm feeling the "get something out" tension. I'm trying to not fall into the rush to say "see here's something" trap
+
+
 ## Found a co-founder
 **07.28.2023**
 
